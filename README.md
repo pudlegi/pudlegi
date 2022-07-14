@@ -9,9 +9,9 @@
 
 ### Education.
 
-<b>수성고등학교</b> 2019.3. ~ 2022.2. 졸업
+- <b>수성고등학교</b> 2019.3. ~ 2022.2. 졸업
 
-<b>영남이공대학교 사이버보안스쿨</b> 2022.3. ~ 재학중
+- <b>영남이공대학교 사이버보안스쿨</b> 2022.3. ~ 재학중
 
 ## Solved.ac Profile
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyrax)](https://solved.ac/hyrax/)
